@@ -1,8 +1,9 @@
-#### Hi there 👋
+#### 👋 Hi netizen :shipit:
 
 ```c
   printf("Welcome to my Git!\n");
   printf("My name is Ezequiel. I'm 26 years old"\n");
+  printf("I'm from Mar del Plata, a coastal city");
   printf("I'm currently studying at UTN (National Technology University)\n");
 ```
 
