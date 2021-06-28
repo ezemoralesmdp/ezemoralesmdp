@@ -1,10 +1,14 @@
 #### 👋 Hi netizen :shipit:
 
 ```c
+void personalDescription{
+
   printf("Welcome to my Git!\n");
-  printf("My name is Ezequiel. I'm 26 years old"\n");
-  printf("I'm from Mar del Plata, a coastal city");
+  printf("My name is Ezequiel Morales. I'm 26 years old"\n");
+  printf("I'm from Mar del Plata, a coastal city\n");
   printf("I'm currently studying at UTN (National Technology University)\n");
+  
+ }
 ```
 
 - 🌱 I’m currently learning C, HTML, CSS, Javascript, .NET
