@@ -16,6 +16,8 @@ void personalDescription{
 - 📫 How to reach me: ezemoralesmdp@gmail.com // :link: https://www.linkedin.com/in/ezemoralesmdp/
 - :musical_keyboard: I'm a piano student - :notes: I really love music
 
+♦ You can see my last blog template here: https://ezemoralesmdp.github.io/redSunset/
+
 
 <!--
 **ezemoralesmdp/ezemoralesmdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
