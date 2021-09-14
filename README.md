@@ -11,7 +11,6 @@ void personalDescription{
  }
 ```
 
-
 ![Hits](https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https%3A%2F%2Fgithub.com%2Fezemoralesmdp%2Fhit-counter)
 
 - 🌱 I’m currently learning C, HTML5, CSS3, Javascript, C#
