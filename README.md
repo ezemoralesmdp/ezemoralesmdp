@@ -1,5 +1,5 @@
 #### 👋 Hi netizen :shipit:
-♦ You are the visitor number:
+♦ You are the visitor number:&nbsp
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fezemorales%2F" alt="Hits">
 
 ```c
