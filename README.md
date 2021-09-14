@@ -11,7 +11,7 @@ void personalDescription{
  }
 ```
 
-![Hits](https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https%3A%2F%2Fgithub.com%2Fezemoralesmdp%2Fhit-counter)
+<img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https%3A%2F%2Fgithub.com%2Fezemoralesmdp%2Fhit-counter" alt="Hits">
 
 - 🌱 I’m currently learning C, HTML5, CSS3, Javascript, C#
 - 👯 I’m looking forward to collaborate on a big project with ambitious and competitive people
