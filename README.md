@@ -1,4 +1,5 @@
 #### 👋 Hi netizen :shipit:
+You are the visitor number:  <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fezemorales%2F" alt="Hits">
 
 ```c
 void personalDescription{
@@ -10,8 +11,6 @@ void personalDescription{
   
  }
 ```
-
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fezemoralesmdp%2F" alt="Hits">
 
 - 🌱 I’m currently learning C, HTML5, CSS3, Javascript, C#
 - 👯 I’m looking forward to collaborate on a big project with ambitious and competitive people
