@@ -10,6 +10,7 @@ void personalDescription{
   
  }
 ```
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
 
 - 🌱 I’m currently learning C, HTML5, CSS3, Javascript, C#
 - 👯 I’m looking forward to collaborate on a big project with ambitious and competitive people
