@@ -1,9 +1,9 @@
 #### 👋 Hi netizen :shipit:
 
 ```c#
-void personalDescription{
+void personalDescription(){
 
-  printf("Welcome to my GitHub!\n");
+  Console.WriteLine("Welcome to my GitHub!\n");
   printf("My name is Ezequiel Morales. I'm 27 years old"\n");
   printf("I'm from Mar del Plata, a coastal city\n");
   printf("I'm currently studying at UTN (National Technology University)\n");
