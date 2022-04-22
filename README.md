@@ -1,6 +1,6 @@
 #### 👋 Hi netizen :shipit:
 
-```c
+```c#
 void personalDescription{
 
   printf("Welcome to my GitHub!\n");
