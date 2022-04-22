@@ -5,8 +5,9 @@ public void personalDescription() {
 
     console.log("Welcome to my GitHub!");
     console.log("My name is Ezequiel Morales. I'm 27 years old"");
-    console.log("I'm from Mar del Plata, a coastal city");
-    console.log("I'm currently studying at UTN (National Technology University)\n");
+    console.log("I'm from Mar del Plata, a coastal city in Argentina");
+    console.log("I'm currently studying at UTN (National Technology University)");
+    console.log("I really love programming and I want to share with you my repositories\n");
 }
 ```
 
