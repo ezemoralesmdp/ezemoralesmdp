@@ -1,9 +1,9 @@
 #### 👋 Hi netizen :shipit:
 
 ```java
-void personalDescription(){
+public void personalDescription(){
 
-  Console.WriteLine("Welcome to my GitHub!\n");
+  console.log("Welcome to my GitHub!\n");
   printf("My name is Ezequiel Morales. I'm 27 years old"\n");
   printf("I'm from Mar del Plata, a coastal city\n");
   printf("I'm currently studying at UTN (National Technology University)\n");
