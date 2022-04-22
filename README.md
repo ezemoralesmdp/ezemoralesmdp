@@ -1,6 +1,6 @@
 #### 👋 Hi netizen :shipit:
 
-```c#
+```
 void personalDescription(){
 
   Console.WriteLine("Welcome to my GitHub!\n");
