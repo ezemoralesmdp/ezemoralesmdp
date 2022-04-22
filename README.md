@@ -1,14 +1,13 @@
 #### 👋 Hi netizen :shipit:
 
 ```java
-public void personalDescription(){
+public void personalDescription() {
 
-  console.log("Welcome to my GitHub!\n");
-  console.log("My name is Ezequiel Morales. I'm 27 years old"\n");
-  console.log("I'm from Mar del Plata, a coastal city\n");
-  console.log("I'm currently studying at UTN (National Technology University)\n");
-  
- }
+    console.log("Welcome to my GitHub!\n");
+    console.log("My name is Ezequiel Morales. I'm 27 years old"\n");
+    console.log("I'm from Mar del Plata, a coastal city\n");
+    console.log("I'm currently studying at UTN (National Technology University)\n");
+}
 ```
 
 - 🌱 I’m currently learning Java & C#
