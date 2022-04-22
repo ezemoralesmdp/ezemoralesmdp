@@ -3,9 +3,9 @@
 ```java
 public void personalDescription() {
 
-    console.log("Welcome to my GitHub!\n");
-    console.log("My name is Ezequiel Morales. I'm 27 years old"\n");
-    console.log("I'm from Mar del Plata, a coastal city\n");
+    console.log("Welcome to my GitHub!");
+    console.log("My name is Ezequiel Morales. I'm 27 years old"");
+    console.log("I'm from Mar del Plata, a coastal city");
     console.log("I'm currently studying at UTN (National Technology University)\n");
 }
 ```
