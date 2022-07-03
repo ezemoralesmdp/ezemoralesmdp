@@ -1,20 +1,20 @@
-#### 👋 Hi netizen :shipit:
+#### :man_technologist: Hi netizen 👋
 
-```java
+```csharp
 public void personalDescription() {
 
-    console.log("Welcome to my GitHub!");
-    console.log("My name is Ezequiel Morales. I'm 27 years old"");
-    console.log("I'm from Mar del Plata, a coastal city in Argentina");
-    console.log("I'm currently studying at UTN (National Technology University)");
-    console.log("I really love programming and I would like to share with you my repositories\n");
+    Console.WriteLine("Welcome to my GitHub!");
+    Console.WriteLine("I am an advanced university student of programming at the National Technological University (UTN).");
+    Console.WriteLine("Enjoy my current projects");
 }
 ```
+📫 Do you want to reach me?
 
-- 🌱 I’m currently learning C#, Java, JavaScript
-- 👯 I’m looking forward to collaborate on a big project with ambitious and competitive people
-- 📫 How to reach me: ezemoralesmdp@gmail.com // :link: https://www.linkedin.com/in/ezemoralesmdp/
-- :musical_keyboard: I'm a piano student - :notes: I really love music
+```csharp
 
-♦ You can see my last blog template here:
-- :point_right: [ RED SUNSET :fire: ] https://ezemoralesmdp.github.io/redSunset/
+boolean sendEmail = response.Contains("yes") ? true : false;
+
+```
+
+:email: `ezemoralesmdp@gmail.com` :point_left:   
+:link: `https://www.linkedin.com/in/ezemoralesmdp/` :point_left:
