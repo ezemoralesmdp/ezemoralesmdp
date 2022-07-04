@@ -8,7 +8,8 @@ public void personalDescription() {
     Console.WriteLine("Enjoy my current projects");
 }
 ```
-📫 Do you want to reach me?
-
+📫 Do you want to reach me?  
+:link: [https://www.linkedin.com/in/ezemoralesmdp/](https://www.linkedin.com/in/ezemoralesmdp/) :point_left:  
 :email: `ezemoralesmdp@gmail.com` :point_left:   
-:link: `https://www.linkedin.com/in/ezemoralesmdp/` :point_left:
+
+
