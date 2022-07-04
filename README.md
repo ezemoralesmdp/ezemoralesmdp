@@ -10,11 +10,5 @@ public void personalDescription() {
 ```
 📫 Do you want to reach me?
 
-```csharp
-
-boolean sendEmail = response.Contains("yes") ? true : false;
-
-```
-
 :email: `ezemoralesmdp@gmail.com` :point_left:   
 :link: `https://www.linkedin.com/in/ezemoralesmdp/` :point_left:
