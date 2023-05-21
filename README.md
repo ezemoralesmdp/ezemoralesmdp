@@ -2,9 +2,9 @@
 
 ```csharp
 public void personalDescription() {
-
     Console.WriteLine("Welcome to my GitHub!");
-    Console.WriteLine("I'm a Programming Technician with a specialization in .NET technologies, currently working as a junior developer.");
+    Console.WriteLine("I'm a Programming Technician with a specialization in .NET technologies.");
+    Console.WriteLine("Currently working as a Junior developer.");
     Console.WriteLine("Enjoy my current projects :)");
 }
 ```
