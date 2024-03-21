@@ -8,5 +8,6 @@ public void personalDescription() {
 }
 ```
 📫 Do you want to reach me?  
-:link: [https://www.linkedin.com/in/ezemoralesmdp/](https://www.linkedin.com/in/ezemoralesmdp/) :point_left:  
+:link: [My Website](https://www.elsblog.com.ar/) :point_left:  
+:link: [LinkedIn](https://www.linkedin.com/in/ezemoralesmdp/) :point_left:  
 :email: `ezemoralesmdp@gmail.com` :point_left:   
