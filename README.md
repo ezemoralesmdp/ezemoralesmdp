@@ -16,7 +16,4 @@ public Task<IActionResult> PersonalDescription() {
     return View(profile);
 }
 ```
-📫 Do you want to reach me?  
-:link: [ElsBlog (My Blog)](https://www.elsblog.com.ar/) :point_left:  
-:link: [LinkedIn](https://www.linkedin.com/in/ezemoralesmdp/) :point_left:  
-:email: `ezemoralesmdp@gmail.com` :point_left:   
+📫 Do you want to reach me? :link: [ElsBlog (My Blog)](https://www.elsblog.com.ar/) :link: [LinkedIn](https://www.linkedin.com/in/ezemoralesmdp/) :email: `ezemoralesmdp@gmail.com`  
