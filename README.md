@@ -9,7 +9,7 @@ public Task<IActionResult> PersonalDescription() {
     };
     
     ViewBag.Welcome = "Welcome to my GitHub!";
-    ViewBag.Description = "I'm a Programming Technician with a specialization in .NET technologies.");
+    ViewBag.Description = "I'm a Programming Technician with a specialization in .NET technologies.";
 
     // Enjoy my current projects :)
 
