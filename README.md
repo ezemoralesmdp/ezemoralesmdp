@@ -5,7 +5,7 @@ public Task<IActionResult> PersonalDescription() {
         Name = "Ezequiel",
         Age = 30,
         Profession = "Software Development Technician",
-        Technologies = new List<string> { "C#", ".NET", "SQL SERVER", "JAVASCRIPT", "AND MORE..." }
+        Technologies = new List<string> { "C#", ".NET", "SQL SERVER", "TYPESCRIPT", "MONGODB", "AND MORE..." }
     };
     
     ViewBag.Welcome = "Welcome to my GitHub!";
